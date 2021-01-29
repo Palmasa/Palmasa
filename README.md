@@ -5,4 +5,4 @@
 <p>📚 Ironhack</p>
 <p>🙋‍♀️ Eager to face new challenges</p>
 <p>👀 Checkot my repositories</p>
-<p>🌍 Outside GitHub:<a href="https://linkedin.com/in/inesdepalmamasaveu/">Linkedin</a> | <a href="https://inesdepalma.com/">My Website</a></p>
+<p>🌍 Outside GitHub: <a href="https://linkedin.com/in/inesdepalmamasaveu/">Linkedin</a> | <a href="https://inesdepalma.com/">My Website</a></p>
