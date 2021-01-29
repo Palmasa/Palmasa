@@ -1,4 +1,4 @@
-# 🙌  Welcome to my profile
+# Welcome to my profile
 <samp>
 <img align="right" alt="GIF" height="160px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
 
