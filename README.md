@@ -5,13 +5,13 @@
 <p>📚 Ironhack</p>
 <p>🙋‍♀️ Eager to face new challenges</p>
 <p>👀 Checkot my repositories</p>
-<p>🌍 Outside GitHub:</p> [Linkedin] | [My website]
+<p>🌍 Outside GitHub:</p>
+[My website](http://inesdepalma.com/)
+[Linkedin](http://linkedin.com/in/inesdepalmamasaveu/)
 
-[Linkedin]: https://www.linkedin.com/in/inesdepalmamasaveu/
-[My website]: http://inesdepalma.com/
 <!--
 **Palmasa/Palmasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[My website]: 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
