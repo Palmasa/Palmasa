@@ -5,9 +5,7 @@
 <p>📚 Ironhack</p>
 <p>🙋‍♀️ Eager to face new challenges</p>
 
-[More about me](https://www.inesdepalma.com)
-
-[Linkedin](https://www.linkedin.com/in/ines-de-palma-masaveu)
+[Linkedin](https://www.linkedin.com/in/ines-de-palma-masaveu) | [More about me](https://www.inesdepalma.com)
 
 <!--
 **Palmasa/Palmasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
