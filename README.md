@@ -1,4 +1,6 @@
 ### Welcome to my profile 🙌
+
+![gif](https://hackernoon.com/images/null-xs22itd.gif)
 <!--
 **Palmasa/Palmasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
