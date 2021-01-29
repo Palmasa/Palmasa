@@ -1,7 +1,7 @@
-# Welcome to my profile!
+# Welcome to my profile 🙌
 <br>
 <samp>
-<img align="left" alt="GIF" height="190px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
+<img align="left" alt="GIF" height="185px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
   <p>🚀  JavaScript, React, MongoDB, Express, NodeJS, HTML, CSS</p>
   <p>📚  Ironhack</p>
   <p>👀  Checkot my repositories</p>
