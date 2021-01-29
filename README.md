@@ -1,6 +1,6 @@
 # Welcome to my profile
 <samp>
-<img align="right" alt="GIF" height="160px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
+<img align="right" alt="GIF" height="150px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
 
 <p>🚀  JavaScript, React, MongoDB, Express, NodeJS, HTML, CSS</p>
 <p>📚  Ironhack</p>
