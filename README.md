@@ -4,11 +4,11 @@
 <p>👨‍💻 Javascript (ES6), React, MongoDB, Express, NodeJS, HTML, CSS</p>
 <p>📚 Ironhack</p>
 <p>🙋‍♀️ Eager to face new challenges</p>
-More about me
-Linkedin
 
-[More about me]:https://www.inesdepalma.com
-[Linkedin]:https://www.linkedin.com/in/ines-de-palma-masaveu
+[More about me](https://www.inesdepalma.com)
+
+[Linkedin](https://www.linkedin.com/in/ines-de-palma-masaveu)
+
 <!--
 **Palmasa/Palmasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
