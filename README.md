@@ -5,4 +5,4 @@
 <p>🚀  JavaScript, React, MongoDB, Express, NodeJS, HTML, CSS</p>
 <p>📚  Ironhack</p>
 <p>👀  Checkout my repositories</p>
-<p>🌍  Outside GitHub: <a href="https://linkedin.com/in/inesdepalmamasaveu/">Linkedin</a> | <a href="https://inesdepalma.com/">My Website</a></p>
+<p>🌍  Outside GitHub: <a href="https://linkedin.com/in/inesdepalmamasaveu/">Linkedin</a> | <a href="#">My Website</a></p>
